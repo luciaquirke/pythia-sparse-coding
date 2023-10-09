@@ -1,0 +1,19 @@
+__pycache__/**
+.vscode/**
+.DS_Store
+
+.env
+.config
+outputs
+activation_data
+models
+nanoGPTtoTL.py
+tl_simple.py
+scratchpad.py
+secrets.json
+setup.sh
+plotting
+wandb/
+
+# ideally would load autointerp as a module but can't get it working so just cloning and ignoring
+neuron_explainer
